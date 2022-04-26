@@ -1,0 +1,39 @@
+.jumbotron {
+    background-color: #f4511e;
+    color:#ffffff;
+    padding: 100px;
+}
+
+.navbar{
+    background-color: #f4511e;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+#myNavBar{
+    float: right !important;
+    padding-left: 80px;
+}
+.nav-item {
+    padding: 30px;
+}
+a{
+    color: #ffffff !important;
+}
+
+input{
+    width: 40%;
+
+}
+
+.navbar-nav li a:hover{
+    color:#f4511e !important;
+    background-color: #ffffff;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
